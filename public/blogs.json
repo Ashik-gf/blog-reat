@@ -1,0 +1,65 @@
+
+    [
+      {
+        "id": 1,
+        "title": "The Art of Photography",
+        "cover_photos": ["https://i.ibb.co/gWRP8Vd/294-facebook-cover-template.jpg"],
+        "author": {
+          "name": "John Smith",
+          "profile_picture": "https://i.ibb.co/mRnqc8R/pngwing-10.png"
+        },
+        "read_time": "10 minutes",
+        "hashtag": ["#Photography", "#Art"],
+        "update_time": "20 May 2023"
+      },
+      {
+        "id": 2,
+        "title": "Healthy Eating Habits",
+        "cover_photos": ["https://i.ibb.co/h9B0BvJ/19330956.jpg"],
+        "author": {
+          "name": "Alice Johnson",
+          "profile_picture": "https://i.ibb.co/mRnqc8R/pngwing-10.png"
+        },
+        "read_time": "15 minutes",
+        "hashtag": ["#HealthyLiving", "#Nutrition"],
+        "update_time": "21 May 2023"
+      },
+      {
+        "id": 3,
+        "title": "Traveling the World on a Budget",
+        "cover_photos": ["https://i.ibb.co/cb9PSMx/523-web-banner-template.jpg"],
+        "author": {
+          "name": "David Wilson",
+          "profile_picture": "https://i.ibb.co/mRnqc8R/pngwing-10.png"
+        },
+        "read_time": "20 minutes",
+        "hashtag": ["#Travel", "#BudgetTravel"],
+        "update_time": "22 May 2023"
+      },
+      {
+        "id": 4,
+        "title": "The Future of Artificial Intelligence",
+        "cover_photos": ["https://i.ibb.co/h9B0BvJ/19330956.jpg"],
+        "author": {
+          "name": "Emily Davis",
+          "profile_picture": "https://i.ibb.co/mRnqc8R/pngwing-10.png"
+        },
+        "read_time": "12 minutes",
+        "hashtag": ["#AI", "#Technology"],
+        "update_time": "23 May 2023"
+      },
+      {
+        "id": 5,
+        "title": "Gardening Tips for Beginners",
+        "cover_photos": ["https://i.ibb.co/gWRP8Vd/294-facebook-cover-template.jpg"],
+        "author": {
+          "name": "Michael Brown",
+          "profile_picture": "https://i.ibb.co/mRnqc8R/pngwing-10.png"
+        },
+        "read_time": "8 minutes",
+        "hashtag": ["#Gardening", "#GreenThumb"],
+        "update_time": "24 May 2023"
+      }
+    ]
+  
+  
